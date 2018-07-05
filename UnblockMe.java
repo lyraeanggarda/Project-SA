@@ -12,8 +12,8 @@ package unblockme;
 public class UnblockMe {
 
     private static int nSimpul = 0;
-    private Block[] map;
-    private static ArrayList<Step> steps = new ArrayList<Step>();
+    private block[] map;
+    private static ArrayList<step> steps = new ArrayList<step>();
 
     /**
      * @param args the command line arguments
