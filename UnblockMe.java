@@ -23,7 +23,7 @@ public class block {
     private int length;
     private int x;
     private int y;
-    private char jenis; // vertikal (v) atau horizontal (h)
+    private charr jenis; // vertikal (v) atau horizontal (h)
 }
 class simpul {
     private int idx;
